@@ -19,6 +19,20 @@ width,height = bext.size()
 width = -1
 height = -3
 
+# writing the main loop
+# creating the white canvas
+while True:
+    canvas = {}
+    for x in range(width):
+        for y in range(height):
+            canvas[(x,y)] = WHITE
+            
+
+
+
+
+# creating vertical lines
+
 
 
 
