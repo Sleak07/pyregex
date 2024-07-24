@@ -1,0 +1,7 @@
+pytest
+ruff
+isort
+autopep8
+mypy
+black
+bext
